@@ -1,0 +1,47 @@
+C1
+o1
+s1
+ 1
+t1
+a1
+m1
+new_line1
+t1
+e1
+s1
+t1
+new_line1
+l1
+k3
+d1
+j3
+new_line1
+k1
+s1
+j1
+k1
+j1
+k1
+l1
+ 1
+h5
+ 4
+u5
+ 1
+k1
+s1
+new_line1
+l8
+ 1
+k4
+u8
+d10
+new_line1
+d1
+f1
+g1
+h1
+j1
+k1
+new_line1
+,6
